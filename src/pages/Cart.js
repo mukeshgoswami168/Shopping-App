@@ -20,7 +20,7 @@ function Cart(){
                             })
                         }
                     </div>
-                    <div className="my-[-550px] mx-[900px]  w-[500px]">
+                    <div className="my-[-350px] mx-[900px]  w-[500px]">
                         <div>
                             <div className="font-semibold text-xl text-green-700">
                                 Your Cart
